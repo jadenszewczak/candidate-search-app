@@ -63,7 +63,7 @@ A TypeScript React application that allows employers to search for potential can
 
 ## Screenshots
 
-![Candidate Search Page](Develop\src\assets\candidatesearch.png)
+![Candidate Search Page](./src/assets/candidatesearch.png)
 _Main search interface showing candidate information_
 
 ## Deployment
